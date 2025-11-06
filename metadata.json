@@ -1,0 +1,5 @@
+{
+  "name": "Audio to OGG Converter",
+  "description": "A professional, fast, and efficient in-browser tool to convert various audio formats to a highly compressed OGG file. Users can adjust the compression quality for optimal file size.",
+  "requestFramePermissions": []
+}
